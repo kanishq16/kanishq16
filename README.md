@@ -17,7 +17,7 @@ Diving deep into modern web development and technologies:
 - 💻 Full Stack Web Development (End-to-end frontend and backend)
 - 🌐 Open-source JavaScript projects
 - ⚡ UI/UX design & performance optimization
-- 🔌 RESTful APIs and Web Apps** using React, Node.js, and Express
+- 🔌 RESTful APIs and Web Apps using React, Node.js, and Express
 - 🚀 Anything fun, challenging, and impactful!
 ---
 📫 How to Reach Me
