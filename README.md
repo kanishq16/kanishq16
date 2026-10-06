@@ -11,7 +11,7 @@ Diving deep into modern web development and technologies:
 - Frontend: HTML5, CSS3, JavaScript (ES6+), React
 - Backend: Node.js, Express.js
 - Databases: MongoDB
-- Other: Many like Python, C, Java and still learning more ...
+- Other: Many like Python, C, Java, focusing on DSA and still learning more ...
 - Version Control & Collaboration: Git, GitHub
 ---
 💞️ Looking to Collaborate On
