@@ -25,6 +25,6 @@ Diving deep into modern web development and technologies:
 - LinkedIn: in/kanishq-anand-1b992842a/
 - Twitter / X: @KanishqAnand16
 - Email: kanishqanand91@gmail.com
-- Instagram: @k4nu.ath, @chunmunn._ , @skiller_k4nu
+- Instagram: @k4nu.ath, @chunmunn._ , @ftw.k4nu
 - Our Web Agency: SCALIX - https://scalix-web-agency.netlify.app/
 - Or simply open an issue or pull request here on GitHub! 📬
