@@ -27,4 +27,5 @@ Diving deep into modern web development and technologies:
 - Email: kanishqanand91@gmail.com
 - Instagram: @k4nu.ath, @chunmunn._ , @ftw.k4nu
 - Our Web Agency: SCALIX - https://scalix-web-agency.netlify.app/
+- Even my Football content Youtube channel : https://www.youtube.com/@FootyVision-o3m
 - Or simply open an issue or pull request here on GitHub! 📬
